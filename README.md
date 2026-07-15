@@ -65,7 +65,6 @@ DYNAMICS/
 │   ├── field.py         kNN smoothing, grid interpolation, diffusion field
 │   ├── basins.py        watershed basin detection
 │   ├── trajectories.py  seeding and gradient-descent integration
-│   └── plotting.py      figure style helpers
 ```
 
 ## Citation
