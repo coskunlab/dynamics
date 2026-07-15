@@ -52,8 +52,7 @@ seeds = dyn.trajectories.farthest_point_seeds(np.c_[x, y], z_smooth)
 paths = dyn.descend_trajectories(seeds, gx, gy, G, Fx, Fy, labels, basin_xy, mask)
 ```
 
-The full end-to-end analysis, including figures, is in
-[`notebooks/lymph_node_trajectory_demo.ipynb`](notebooks/lymph_node_trajectory_demo.ipynb).
+
 
 ## Repository layout
 
